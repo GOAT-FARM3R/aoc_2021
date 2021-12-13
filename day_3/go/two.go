@@ -72,7 +72,6 @@ func main() {
 				cotwo = ones
 			}
 		}
-
 		pos += 1
 
 	}
